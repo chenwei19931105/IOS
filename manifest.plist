@@ -17,7 +17,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.Company.ProductName</string>
+				<string>com.shinezone.gameframework.demo</string>
 				<key>bundle-version</key>
 				<string>8.8.8</string>
 				<key>kind</key>
